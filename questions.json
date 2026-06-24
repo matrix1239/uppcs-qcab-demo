@@ -1,0 +1,26 @@
+[
+ {
+  "id":1,
+  "year":2025,
+  "paper":"GS-I",
+  "topic":"History",
+  "marks":8,
+  "question":"Comment briefly on the development of art and technology during the Maurya period."
+ },
+ {
+  "id":2,
+  "year":2025,
+  "paper":"GS-I",
+  "topic":"Modern History",
+  "marks":8,
+  "question":"Women's issue was a major concern in the socio-religious reform movements of 19th century India. Explain."
+ },
+ {
+  "id":3,
+  "year":2025,
+  "paper":"GS-II",
+  "topic":"Polity",
+  "marks":8,
+  "question":"What role do Joint Parliamentary Committees (JPCs) play in the Indian legislative process?"
+ }
+]
