@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>UPPCS QCAB Demo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>UPPCS QCAB Generator</h1>
+
+  <select id="yearFilter">
+    <option value="">All Years</option>
+    <option value="2025">2025</option>
+  </select>
+
+  <button onclick="loadQuestions()">Load Questions</button>
+  <button onclick="generatePDF()">Generate QCAB</button>
+
+  <div id="questions"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
